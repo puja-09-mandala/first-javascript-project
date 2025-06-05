@@ -1,1 +1,1 @@
-# first-javascript-project
+# ROCK-PAPER-SCISSOR GAME
